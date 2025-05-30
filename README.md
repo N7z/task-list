@@ -19,7 +19,7 @@ Uma lista de tarefas simples e elegante, com suporte a modo escuro, escrita em L
 ![Task List](https://github.com/user-attachments/assets/88a9f148-493d-4118-a673-4e49809ba5e1)
 
 ### ➕ Modal de Nova Tarefa
-![Add Task Modal](https://github.com/user-attachments/assets/146f7050-e871-443a-8867-beee9d72e611)
+![Add Task Modal](https://github.com/user-attachments/assets/092b5c9c-122f-4782-abee-a3f4b5a73296)
 
 ---
 

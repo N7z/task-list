@@ -31,7 +31,12 @@ new class extends Component {
 
     function delete($id)
     {
-        Task::find($id)?->delete();
+        $task = Task::find($id);
+        if (!$task || $task->user_id !== auth()->id()) {
+            return;
+        }
+
+        $task->delete();
         $this->refreshTasks();
     }
 
